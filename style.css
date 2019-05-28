@@ -1,0 +1,23 @@
+.btn-primary {
+	background-color: #ee4b08;
+	border-color:  #ee4b08; 
+}
+
+.btn-primary:hover {
+	background-color: black;
+	border-color: black;
+}
+
+.btn-primary {
+	border-image-slice: all;
+	
+}
+
+
+
+body {
+ background-image: url("LandingStock_image_28.jpg");
+ background-size: cover;
+ background-repeat: no-repeat, repeat; 
+}
+
